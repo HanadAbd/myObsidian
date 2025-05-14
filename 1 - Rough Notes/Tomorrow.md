@@ -1,0 +1,5 @@
+- Finish marking exam questions and create model answers/mark scheme
+- Complete list of things to learn
+- Go over and complete things left to learn and create more notes.
+- Go through slides and complete notes.
+- Learn about how to apply each technqiue and pros/con's with them. Especially for old te

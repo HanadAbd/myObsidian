@@ -1,0 +1,2 @@
+- [ ] Contact Lukas
+- [ ] Add Brad on LinkedIn

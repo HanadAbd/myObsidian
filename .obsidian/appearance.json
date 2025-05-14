@@ -1,0 +1,9 @@
+{
+  "accentColor": "#a3bcc8",
+  "baseFontSize": 16,
+  "theme": "obsidian",
+  "cssTheme": "Obsidian Nord",
+  "enabledCssSnippets": [
+    "screen-width"
+  ]
+}

@@ -1,0 +1,7 @@
+- The Enterprise Big Data Lake
+- [[Designing Data-Intensive Applications - Martin Kleppmann]]
+- Advanced Programming in the Unix Environment
+- Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale
+- Business Intelligence Guidebook: From Data Integration to Analytics
+- The Data Warehouse ETL Toolkit 
+- [[Big Data Principles and best practices of scalable real-time data systems by Nathan Marz and James Warren (Lambda Architecture)]]
