@@ -1,0 +1,4 @@
+- first 2 sections of the background research, describing BI, BDA, it's necessity, current tools and implementations used, as well as how it is implemented and necessities 
+- Do a brief overview of front end solutions that BI is used for e.g. Grafana, Tabelu, Simple SQL queries as well as specifically Machine Learning in the context of supervised and unsupervised learning context, in context of predictions, and descion making
+- Complete explanation explaining how testing was done. Reference this both in introduction section, and the actual testing section. Reference to how this was added as persistent service, to generate erroed and variety of structured historical and batch data
+- Finish Design Section going over how it is done there.

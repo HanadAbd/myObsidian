@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"0a5772fe61276a95","type":"text","text":"## Raw Materials","x":-125,"y":-30,"width":205,"height":170},
+		{"id":"f1d30fab984f5341","type":"text","text":"## Machining","x":160,"y":-30,"width":205,"height":170},
+		{"id":"32bf5d75a37d3bad","type":"text","text":"## Tool Store","x":160,"y":-300,"width":205,"height":170},
+		{"id":"9ec3e6e519eb6c32","type":"text","text":"## Paint / Curing","x":480,"y":-30,"width":205,"height":170},
+		{"id":"0699ed0035e8d34f","type":"text","text":"## Heat Treatment","x":480,"y":-300,"width":205,"height":170},
+		{"id":"1353520585bb17f6","type":"text","text":"## Assembly","x":900,"y":-30,"width":205,"height":170},
+		{"id":"2b22b92c34a25eed","type":"text","text":"## Assembly Store","x":900,"y":-300,"width":205,"height":170},
+		{"id":"bc5abf132d1cb08c","type":"text","text":"## Quality Control","x":1200,"y":-30,"width":205,"height":170},
+		{"id":"943c6116632b1460","type":"text","text":"## Packaging and Shipping","x":467,"y":-546,"width":205,"height":170},
+		{"id":"7591bcea7d82464a","type":"text","text":"## Warehouse","x":160,"y":-546,"width":205,"height":170},
+		{"id":"23ec537b17fe70b1","type":"text","text":"## Maintenance and Repair","x":160,"y":300,"width":243,"height":170}
+	],
+	"edges":[
+		{"id":"270022d216ae8898","fromNode":"0a5772fe61276a95","fromSide":"right","toNode":"f1d30fab984f5341","toSide":"left"},
+		{"id":"66cf9fd74e23730e","fromNode":"32bf5d75a37d3bad","fromSide":"bottom","toNode":"f1d30fab984f5341","toSide":"top"},
+		{"id":"0ca2f07e279d0cc4","fromNode":"f1d30fab984f5341","fromSide":"right","toNode":"9ec3e6e519eb6c32","toSide":"left"},
+		{"id":"0e35e19020936e08","fromNode":"f1d30fab984f5341","fromSide":"right","toNode":"0699ed0035e8d34f","toSide":"left"},
+		{"id":"4e108c4e0c363c77","fromNode":"f1d30fab984f5341","fromSide":"bottom","toNode":"23ec537b17fe70b1","toSide":"top"},
+		{"id":"ef981977fa1819d5","fromNode":"2b22b92c34a25eed","fromSide":"bottom","toNode":"1353520585bb17f6","toSide":"top"},
+		{"id":"bba050cf5a9b4d0b","fromNode":"0699ed0035e8d34f","fromSide":"right","toNode":"1353520585bb17f6","toSide":"left"},
+		{"id":"bc35f99fc3bc603d","fromNode":"9ec3e6e519eb6c32","fromSide":"right","toNode":"1353520585bb17f6","toSide":"left"},
+		{"id":"7bb930241d125a35","fromNode":"23ec537b17fe70b1","fromSide":"left","toNode":"7591bcea7d82464a","toSide":"left"},
+		{"id":"94dcd4c773817fbd","fromNode":"1353520585bb17f6","fromSide":"bottom","toNode":"23ec537b17fe70b1","toSide":"right"},
+		{"id":"5865336c3decb7d9","fromNode":"bc5abf132d1cb08c","fromSide":"bottom","toNode":"23ec537b17fe70b1","toSide":"right"},
+		{"id":"05127460bf51e692","fromNode":"7591bcea7d82464a","fromSide":"left","toNode":"0a5772fe61276a95","toSide":"left"},
+		{"id":"64ab777ae31a5794","fromNode":"bc5abf132d1cb08c","fromSide":"top","toNode":"943c6116632b1460","toSide":"right"},
+		{"id":"de0eda8b2ce4061a","fromNode":"1353520585bb17f6","fromSide":"right","toNode":"bc5abf132d1cb08c","toSide":"left"},
+		{"id":"8accbf68035ea5cd","fromNode":"943c6116632b1460","fromSide":"left","toNode":"7591bcea7d82464a","toSide":"right"}
+	]
+}

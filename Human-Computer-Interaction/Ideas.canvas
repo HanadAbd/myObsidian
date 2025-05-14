@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"37cfd8137ddcdfb3","type":"group","x":-40,"y":178,"width":980,"height":522,"color":"3","label":"Social Physical Health"},
+		{"id":"74124f69f9d1a96d","type":"group","x":300,"y":-240,"width":700,"height":364,"color":"1","label":"Community Health"},
+		{"id":"e2d8b60031b75db2","type":"group","x":-560,"y":-393,"width":760,"height":335,"color":"5","label":"Social Mental Health"},
+		{"id":"7cc7a556a683e5e4","type":"group","x":-495,"y":16,"width":380,"height":564,"color":"4","label":"Elderly or low-movement"},
+		{"id":"d964edb8b50d9bd3","type":"text","text":"#### Brainstorm ideas","x":-44,"y":-22,"width":244,"height":80},
+		{"id":"2987d0ebc72d36e8","type":"file","file":"Human-Computer-Interaction/Ideas.md","x":-1160,"y":-222,"width":400,"height":400},
+		{"id":"256cb7ce01c3dcc2","type":"text","text":"","x":-1009,"y":-218,"width":250,"height":60},
+		{"id":"0570c989305b14fd","type":"text","text":"VR Google Maps\n- VR for google maps those who with limited movement and can view other people across the world","x":-430,"y":275,"width":290,"height":265},
+		{"id":"7f94935c64842358","type":"text","text":"Medicine Delivery tracker","x":-430,"y":36,"width":250,"height":100},
+		{"id":"7602414041f948f7","type":"text","text":"NHS Wait times Tracker","x":-430,"y":157,"width":250,"height":88},
+		{"id":"d60efcbbf38590be","type":"text","text":"Mental Health Buddy System\n- Application based on finding people with similar mental health issues to share progress and help","x":-528,"y":-380,"width":308,"height":280},
+		{"id":"20e606dcd0d35079","type":"text","text":"Virtual pet for Mental Health\n- Virtual pet that corresponds to stress levels","x":-180,"y":-380,"width":320,"height":243},
+		{"id":"051db7a8032186a3","type":"text","text":"Health Events Finder\n- Hosting and inviting group physical events like marathons and matches","x":652,"y":204,"width":269,"height":314},
+		{"id":"567dab66a2fb7730","type":"text","text":"Pokémon Go Revival\n- Some game like Pokémon go, that encourages group movement and participation.","x":-26,"y":204,"width":286,"height":248},
+		{"id":"2b1881db9fa653cb","type":"text","text":"Young people and Care home\n- To help with lonliness,  could have group sessions for those in care homes and young people","x":320,"y":204,"width":300,"height":314},
+		{"id":"673f67629e403800","type":"text","text":"Group Cycling Routes\n- App to encourage planning group cycles across cities","x":-26,"y":474,"width":286,"height":226},
+		{"id":"587572b7bb9207a2","type":"text","text":"Family health dashboard\n- App to monitor the health of older members of your family","x":320,"y":-211,"width":250,"height":269},
+		{"id":"4459faf608caba63","type":"text","text":"Local Air Quality monitor\n- For those struggle breathing or more immunocompromised, use sensors to view air quality levels in their home and area","x":652,"y":-211,"width":334,"height":307}
+	],
+	"edges":[
+		{"id":"aa4309203a613631","fromNode":"d964edb8b50d9bd3","fromSide":"left","toNode":"7cc7a556a683e5e4","toSide":"right"},
+		{"id":"d3b694fe292b6758","fromNode":"d964edb8b50d9bd3","fromSide":"right","toNode":"74124f69f9d1a96d","toSide":"left"},
+		{"id":"5e56f2a4c0f731d1","fromNode":"d964edb8b50d9bd3","fromSide":"bottom","toNode":"37cfd8137ddcdfb3","toSide":"top"},
+		{"id":"7f82031906a871a9","fromNode":"d964edb8b50d9bd3","fromSide":"top","toNode":"e2d8b60031b75db2","toSide":"bottom"}
+	]
+}
