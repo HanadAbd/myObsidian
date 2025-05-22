@@ -178,30 +178,6 @@
             }
           },
           {
-            "id": "a2e9f291b4b22802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main/08 Bayesian Reasoning and Markov Decision Processes Intelligent Interactive Systems.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "08 Bayesian Reasoning and Markov Decision Processes Intelligent Interactive Systems"
-            }
-          },
-          {
             "id": "823742793acb2fe6",
             "type": "leaf",
             "state": {
@@ -226,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -450,23 +426,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d3eff57eced6501",
+  "active": "7f50bce6935fd81a",
   "lastOpenFiles": [
-    "6 - Main/04 Supervised Learning Algorithms- Intelligence Interactive Systems.md",
-    "6 - Main/05 Unsupervised Learning Intelligent Interactive Systems.md",
-    "Untitled.md",
-    "attachments/image-30.png",
-    "6 - Main/06 Recommendation System Intelligent Interactive Systems.md",
-    "6 - Main/09 Reinforcement Learning Intelligent Interactive Systems.md",
-    "attachments/Unsupervised_learning.pdf",
-    "6 - Main/git update obsidian.md",
-    "6 - Main/08 Bayesian Reasoning and Markov Decision Processes Intelligent Interactive Systems.md",
-    "6 - Main/2025-05-22.md",
-    "6 - Main/07 Responsible AI and LLM's Intelligent Interactive Systems.md",
-    "attachments/image-29.png",
     "6 - Main/Intelligence Interactive Systems Specification.md",
     "6 - Main/Intelligence Interactive Systems.md",
+    "6 - Main/06 Recommendation System Intelligent Interactive Systems.md",
+    "6 - Main/2025-05-22.md",
+    "6 - Main/09 Reinforcement Learning Intelligent Interactive Systems.md",
+    "6 - Main/08 Bayesian Reasoning and Markov Decision Processes Intelligent Interactive Systems.md",
+    "6 - Main/05 Unsupervised Learning Intelligent Interactive Systems.md",
     "6 - Main/Intelligence Interactive Systems All Questions.md",
+    "6 - Main/04 Supervised Learning Algorithms- Intelligence Interactive Systems.md",
+    "Untitled.md",
+    "attachments/image-30.png",
+    "attachments/Unsupervised_learning.pdf",
+    "6 - Main/git update obsidian.md",
+    "6 - Main/07 Responsible AI and LLM's Intelligent Interactive Systems.md",
+    "attachments/image-29.png",
     "attachments/Reinforcement-Learning.pdf",
     "6 - Main/02 Cooperation - Intelligent Interactive Systems.md",
     "6 - Main/03 Human Decision Making Intelligent Interactive Systems.md",
