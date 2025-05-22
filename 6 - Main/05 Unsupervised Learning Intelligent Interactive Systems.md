@@ -57,20 +57,22 @@ Challenge comes from how many centroids to use.
 ### Dimensionality Reduction for Clustering
 
 Necessary since with unsupervised ML:
-1. Calculating distance from each dock to each centroid for x interations in topical analysis can be costly
+1. Calculating distance from each dock to each centroid for x iterations in topical analysis can be costly
 2. Even short documents can have large feature space
 
-##### Single Value Decomposition
+Does this via removing frequent words, and applying singular Value Decomposition (SVD)
 
-Reduces dimensionality to make clustering more efficent while maintaing useful information
+##### Single Value Decomposition (SVD)
+
+Reduces dimensionality to make clustering more efficient while maintain useful information
 
 ### Evaluating Unsupervised ML Algorithms
 
 
 Dependent on application domain but uses similar metrics to SL
 
-- Purity is simlar to accuracy
-- Homgeneity
+- Purity is similar to accuracy
+- Homgeneity, simlar to precesiosn
 - Completeness, similar to recall, 
 - V-measure, similar to F-measure, harmonic mean of homogeneity and completeness
 

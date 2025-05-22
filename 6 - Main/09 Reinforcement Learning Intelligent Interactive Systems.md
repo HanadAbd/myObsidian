@@ -70,16 +70,13 @@ $\gamma$ is discount factor
 $V(s')$ is value at previous state
 
 
-
-
-
 ### Q-Learning Algorithm
 
 **Q-Learning** or **Quality Learning** is an algorithm that will find the best series of A for given S. It is:
 
-- Model Free: Doesn't require knowledge of undleying dynamics or transition probablities of enviroment
-- Value-based: 
-- Off-Policy: 
+- **Model-Free**: Doesn't require knowledge of undelaying dynamics or transition probabilities of environment
+- **Value-based**: Focuses on learning value function Q(s,a) to estimate sum reward taking action A in state S following optimal policy.
+- **Off-Policy**: Updates it's Q-values using data followed by different policy, typically exploratory ones.
 $$Q(s,a) = r(s,a) + \gamma maxQ(s',a)$$
 
 

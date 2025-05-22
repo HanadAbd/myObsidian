@@ -187,6 +187,10 @@ Four gates—each implemented as a sigmoid layer followed by element-wise multip
 3. **Update gate**: Selectively update cell state values
 4. **Output gate**: Decides what information is sent to the next time stamp
 
+![[image-29.png|722x395]]
+
+*Note: Cell state represents Update gate, that updates Cell State Value*
+
 
 LSTMs can preserve or discard information over arbitrarily long sequences, making them highly effective for tasks requiring long-term context such as **language modelling** and **speech recognition**.
 

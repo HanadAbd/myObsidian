@@ -17,10 +17,11 @@ Tags: [[Intelligence Interactive Systems]]
 
 ## All Questions Before
 ---
-### **Question 1**
+**2023/24**
+### **Question 1** 
 
 **(a)**  
-Consider an AI chatbot that provides medical advice on a particular disease. The probability that a person has the disease is 1%. If a person has the disease, the standard test for detecting it is correct 80% of the time. If a person does not have the disease, the probability that they nevertheless test positive is 9% (false-positive rate). A patient tests positive and seeks advice from the chatbot.
+Consider an AI chatbot that provides medical advice on a particular disease. The probability that a person has the disease is 1%. If a person has the disease, the standard test for detecting it is correct 80% of the time. If a person does not have the disease, the probability that they nevertheless test positive is 9% (false-positive rate). A patient tests positive and seeks advice from the chatbot. Briefly discuss what advice the chatbot should give and justify your answer.
 
 **[10 marks]**
 
@@ -58,7 +59,7 @@ Consider a Movie Recommender System which uses Latent Dirichlet Allocation (LDA)
 **[10 marks]**
 
 -----
-
+**2022/23**
 ### **Question 1**
 
 **(a)**
@@ -114,6 +115,7 @@ Propose an intelligent system that models the consequences of human sensorimotor
 Critically analyse the role of models of humans in intelligent interaction.  
 [8 marks]
 
+**Summer 2024**
 ### **Question 1 (Social Housing Case Study)**
 
 Social housing is the provision of rental housing provided by local government (or non- profit organisations) to families who may struggle to afford rents available from the private market. A social housing company wishes to use AI to improve its service provision and ensure costs are kept as low as possible.

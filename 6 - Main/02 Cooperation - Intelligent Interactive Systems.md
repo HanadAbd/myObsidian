@@ -7,7 +7,7 @@ Tags: [[Intelligence Interactive Systems]]
 ---
 ## Summary
 
-Goes over Cooperation in the context of both humans and AI , in order for Cooperative AI to help humans improve Joint Welfare. It does this through Game theory, the research of cooperative and non-coperative behaviours through the concept of games.
+Goes over Cooperation in the context of both humans and AI , in order for Cooperative AI to help humans improve Joint Welfare. It does this through Game theory, the research of cooperative and non-cooperative behaviours through the concept of games.
 
 Most of these are done through the lens of cooperation and defection.
 

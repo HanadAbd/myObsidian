@@ -34,54 +34,6 @@
             }
           },
           {
-            "id": "d332eaf37c534bcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main/04 Supervised Learning Algorithms- Intelligence Interactive Systems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "04 Supervised Learning Algorithms- Intelligence Interactive Systems"
-            }
-          },
-          {
-            "id": "8b929606b38c3ae2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main/06 Recommendation System Intelligent Interactive Systems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "06 Recommendation System Intelligent Interactive Systems"
-            }
-          },
-          {
             "id": "7f50bce6935fd81a",
             "type": "leaf",
             "state": {
@@ -103,78 +55,6 @@
               },
               "icon": "lucide-file",
               "title": "Intelligence Interactive Systems All Questions"
-            }
-          },
-          {
-            "id": "bb9b22ca78275ee0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main/09 Reinforcement Learning Intelligent Interactive Systems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "09 Reinforcement Learning Intelligent Interactive Systems"
-            }
-          },
-          {
-            "id": "4a8b56a51f525b9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main/08 Bayesian Reasoning and Markov Decision Processes Intelligent Interactive Systems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "08 Bayesian Reasoning and Markov Decision Processes Intelligent Interactive Systems"
-            }
-          },
-          {
-            "id": "b766affd6e6cc535",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Main/latex.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "latex"
             }
           },
           {
@@ -200,24 +80,216 @@
               "icon": "lucide-file",
               "title": "2025-05-22"
             }
+          },
+          {
+            "id": "50356f490383db44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main/Intelligence Interactive Systems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Intelligence Interactive Systems"
+            }
+          },
+          {
+            "id": "227a3f9230322474",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main/Intelligence Interactive Systems Specification.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Intelligence Interactive Systems Specification"
+            }
+          },
+          {
+            "id": "2d3eff57eced6501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main/04 Supervised Learning Algorithms- Intelligence Interactive Systems.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "04 Supervised Learning Algorithms- Intelligence Interactive Systems"
+            }
+          },
+          {
+            "id": "0b36a8e7dbcef47d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main/05 Unsupervised Learning Intelligent Interactive Systems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "05 Unsupervised Learning Intelligent Interactive Systems"
+            }
+          },
+          {
+            "id": "91f0ff018c173f87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main/06 Recommendation System Intelligent Interactive Systems.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "06 Recommendation System Intelligent Interactive Systems"
+            }
+          },
+          {
+            "id": "a2e9f291b4b22802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main/08 Bayesian Reasoning and Markov Decision Processes Intelligent Interactive Systems.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "08 Bayesian Reasoning and Markov Decision Processes Intelligent Interactive Systems"
+            }
+          },
+          {
+            "id": "823742793acb2fe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main/09 Reinforcement Learning Intelligent Interactive Systems.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "09 Reinforcement Learning Intelligent Interactive Systems"
+            }
+          },
+          {
+            "id": "b0a2b63c81f617b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main/git update obsidian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "git update obsidian"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 10
       },
       {
-        "id": "a88fe60696d5e609",
+        "id": "5b4fb5fe9a6f283b",
         "type": "tabs",
         "children": [
           {
-            "id": "59c457684231214b",
+            "id": "8a57983f14cd0189",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "attachments/Reinforcement-Learning.pdf"
+                "file": "attachments/Unsupervised_learning.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Reinforcement-Learning"
+              "title": "Unsupervised_learning"
             }
           }
         ]
@@ -273,12 +345,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "69554f0c2b71ccb3",
@@ -407,6 +479,16 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9004c242ed7b30a7",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
             }
@@ -434,53 +516,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb9b22ca78275ee0",
+  "active": "b0a2b63c81f617b4",
   "lastOpenFiles": [
-    "attachments/Reinforcement-Learning.pdf",
-    "6 - Main/09 Reinforcement Learning Intelligent Interactive Systems.md",
-    "attachments/image-28.png",
-    "6 - Main/2025-05-22.md",
-    "6 - Main/06 Recommendation System Intelligent Interactive Systems.md",
-    "6 - Main/2025-05-21.md",
+    "6 - Main/05 Unsupervised Learning Intelligent Interactive Systems.md",
+    "attachments/Unsupervised_learning.pdf",
     "6 - Main/08 Bayesian Reasoning and Markov Decision Processes Intelligent Interactive Systems.md",
+    "6 - Main/06 Recommendation System Intelligent Interactive Systems.md",
+    "6 - Main/2025-05-22.md",
+    "6 - Main/04 Supervised Learning Algorithms- Intelligence Interactive Systems.md",
+    "6 - Main/07 Responsible AI and LLM's Intelligent Interactive Systems.md",
+    "attachments/image-29.png",
+    "6 - Main/Intelligence Interactive Systems Specification.md",
+    "6 - Main/Intelligence Interactive Systems.md",
+    "6 - Main/Intelligence Interactive Systems All Questions.md",
+    "6 - Main/09 Reinforcement Learning Intelligent Interactive Systems.md",
+    "attachments/Reinforcement-Learning.pdf",
+    "6 - Main/02 Cooperation - Intelligent Interactive Systems.md",
+    "6 - Main/03 Human Decision Making Intelligent Interactive Systems.md",
+    "6 - Main/01 Introduction - Intelligence Interactive Systems.md",
+    "attachments/LHM Intelligent Interactive Systems 2022-23.pdf",
     "6 - Main/latex.md",
+    "6 - Main/This Week.md",
+    "attachments/LHM Intelligent Interactive Systems  2023-24.pdf",
+    "attachments/LHM Advanced Networking 2022-23.pdf",
+    "6 - Main/git update obsidian.md",
+    "attachments/image-28.png",
+    "6 - Main/2025-05-21.md",
     "attachments/undergradmath.pdf",
     "6 - Main/golang context.md",
-    "6 - Main/Intelligence Interactive Systems All Questions.md",
-    "attachments/LHM Intelligent Interactive Systems 2022-23.pdf",
-    "attachments/LHM Intelligent Interactive Systems  2023-24.pdf",
     "6 - Main/Intelligent Interactive Systems Literature Review Paper Summer 2024.md",
     "attachments/LHM Advanced Networking 2023-24.pdf",
     "attachments/Essay Question.pdf",
     "attachments/LHM Intelligent Interactive Systems Summer.pdf",
-    "attachments/LHM Advanced Networking 2022-23.pdf",
     "6 - Main/Intelligent Interactive Systems Literature Review Paper 2022-23.md",
     "6 - Main/Intelligent Interactive Systems Literature Review Paper 2023-24.md",
     "attachments/image-27.png",
     "attachments/Recommender_Systems.pdf",
     "attachments/image-26.png",
-    "attachments/MDP Applications.pdf",
     "attachments/image-25.png",
-    "6 - Main/07 Responsible AI and LLM's Intelligent Interactive Systems.md",
-    "6 - Main/Intelligence Interactive Systems Specification.md",
     "6 - Main/2025-05-20.md",
-    "6 - Main/05 Unsupervised Learning Intelligent Interactive Systems.md",
-    "6 - Main/04 Supervised Learning Algorithms- Intelligence Interactive Systems.md",
     "6 - Main/What currently works.md",
-    "6 - Main/This Week.md",
     "6 - Main/2025-05-19.md",
     "6 - Main/Intelligence Interactive Systems Essay Question.md",
-    "6 - Main/Intelligent Interactive Systems Literature Review 2 Overview.md",
-    "6 - Main/10 Ethics Intelligent Interactive Systems.md",
-    "5 - Templates/Normal Note.md",
-    "6 - Main/08 DNS.md",
-    "6 - Main/DNS.md",
     "attachments/image-24.png",
     "attachments/image-23.png",
     "attachments/image-22.png",
     "attachments/image-21.png",
     "attachments/image-20.png",
-    "attachments/image-19.png",
     "BCNR Show.canvas",
     "Untitled 1.canvas",
     "Factory Plan.canvas",

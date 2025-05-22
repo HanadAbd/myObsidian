@@ -6,6 +6,12 @@ Tags: [[Intelligence Interactive Systems]]
 
 ---
 
+- Mathematical Representations of Risk
+- Axioms for subjected expected Utility
+- Paradoxes Exploring Human Risk
+- Fourfold Pattern of Risk Attitudes
+- Factors affecting human decision
+- Necessary implementations for AI
 ## Summary
 
 AI in the case of prediction and planning, in order to aid human decision. It focuses on how humans make decisions versus mathematical models of rationality, and the implications for AI systems designed to assist human decision making.
