@@ -42,7 +42,7 @@ Typically collision is handled by listening to the network at the same time of t
 
 ==All packets must be 64 bytes (or padded with 1 and 0 to be 64 bytes) so it will still have time near end of packet sent, you can send a set pattern of alternating 1 and 0 to ruin any checksums and make clear their is a collision.==
 
-==64 value is a function of the maximum diameter of a collision domain.==
+==64 value is a function of the maximum diameter of a collision domain (1500m).==
 
 We then just flood the network to say there is a collision happening. Also ruins the checksum of any data on a network in order to ensure data is resent since it has been interfered with
 

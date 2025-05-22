@@ -8,25 +8,62 @@ Tags: [[Advanced Networking]]
 ## New Questions
 ---
 
-### TCP Reliability Mechanisms and Optimizations
+### Network Fundamentals
+1. The DoD (TCP/IP) model has become the dominant networking model over the OSI model. Explain the key differences between these models and why the DoD model has proven more practical for Internet communications. Your answer should reference the specific layers of each model and their functions. [10 marks]
+2. Compare packet switching with circuit switching, explaining three specific advantages of packet switching. Using examples from the provided notes, explain how these advantages improve network resilience and resource utilization. [8 marks]
 
-During data transfer, the sender receives three duplicate acknowledgements for packet 45. Explain in detail how selective acknowledgement (SACK) would handle this situation differently from cumulative acknowledgement. Include in your answer the specific TCP header options used and how they improve efficiency. [8 marks]
-### DNS Architecture and Problems
+Q) Compare packet switching with circuit switching, explaining three specific advantages of packet switching. Using examples from the provided notes, explain how these advantages improve network resilience and resource utilization. [8 marks]
 
-Explain in detail the complete resolution process when a user in your Tokyo office attempts to access "[www.internal-app.company.com](http://www.internal-app.company.com/)" for the first time. Your answer should include all steps from the client's request to the final IP address being returned, identifying each type of DNS server involved and the specific queries exchanged. [8 marks]
-### IP Addressing, Subnetting, and Routing
+A) Compare packet switching with circuit switching, explaining three specific advantages of packet switching. Using examples from the provided notes, explain how these advantages improve network resilience and resource utilization. [8 marks]
 
-Compare and contrast the anycast routing approach with traditional unicast routing. Provide two specific use cases where anycast provides significant advantages, and explain the mechanisms that make it work effectively in these scenarios. [6 marks]
+### Lower Layers
 
-### Transport Layer Protocols and Demultiplexing
+1. Compare conservative switching (store-and-forward) with aggressive switching (cut-through) in Ethernet networks. What are the tradeoffs in terms of latency, reliability, and error propagation? In what scenarios would each approach be preferred? [6 marks]
+2. Explain the concepts of traffic shaping and policing in modern networks. Compare the "leaky bucket" approach with "random early dropping" for managing network congestion. How do these mechanisms help prevent buffer overflow problems? [8 marks]
 
-### RFC1918 and NAT Traversal
 
-### DoD Model and Protocol Layering
+### IP 
 
-### DHCP Design and Implementation
+1. Fragmentation in IPv4 has been largely deprecated in modern networks. Explain the original mechanism of IP fragmentation, the problems it creates, and how Path MTU Discovery provides a more efficient alternative. Why does IPv6 take a fundamentally different approach to fragmentation? [10 marks]
+2. Describe the evolution of IPv4 address allocation from the original class-based system to modern CIDR addressing. Explain how subnetting allows more efficient use of address space, and provide an example of how a Class C network (192.168.1.0/24) could be divided into four equal subnets. [8 marks]
+3. Explain how ARP (Address Resolution Protocol) enables IP communication over Ethernet networks. What security and performance concerns exist with ARP, and how does IPv6's Neighbor Discovery Protocol differ in its approach? [6 marks]
 
-Compare and contrast IPv4 DHCP with IPv6 address allocation methods (DHCPv6 and SLAAC). Analyze the security and management implications of each approach and provide recommendations for different network types. [4 marks]
+### Address Allocation
+
+1. Compare and contrast IPv4 DHCP with IPv6 address allocation methods (DHCPv6 and SLAAC). Analyze the security and management implications of each approach and provide recommendations for different network types. [10 marks]
+2. DHCP server architecture presents several design challenges in complex networks. Explain the potential issues with DHCP servers and how they can be addressed using relay agents. What are the security considerations when deploying DHCP in an enterprise environment? [10 marks]
+
+
+### Multiple Interfaces
+
+1. Load balancing ensures efficient distribution of network traffic across multiple resources. Compare DNS-based load balancing with modern load-balancing techniques using inbound NAT. How do these approaches handle server failures and maintain session persistence? [8 marks]
+2. Explain the operation of Virtual Router Redundancy Protocol (VRRP) and its role in providing high availability for gateway routers. Detail the election process between master and backup nodes, and how failover occurs when a master node becomes unavailable. [8 marks]
+3. Virtual LANs (VLANs) allow multiple logical networks to exist on shared physical infrastructure. Explain how VLAN tagging works, the difference between tagged and untagged ports, and how a "router on a stick" configuration enables inter-VLAN communication. What security considerations should be addressed when implementing VLANs? [10 marks]
+
+### TCP and UDP
+
+1. During data transfer, the sender receives three duplicate acknowledgements for packet 45. Explain in detail how selective acknowledgement (SACK) would handle this situation differently from cumulative acknowledgement. Include in your answer the specific TCP header options used and how they improve efficiency. [8 marks]
+2. Compare the demultiplexing processes for TCP and UDP. How does each protocol identify the correct application to deliver incoming data? Explain why TCP requires a 4-tuple (source IP, source port, destination IP, destination port) while UDP can function with less information. [6 marks]
+3. The "Silly Window Syndrome" can significantly degrade TCP performance. Explain what causes this condition and the two approaches (receiver-side and sender-side) used to prevent it. How does Nagle's algorithm specifically address this issue? [6 marks]
+4. TCP's sliding window mechanism is essential for flow control. Explain how the sender and receiver windows operate, how the window size is advertised, and how window scaling extends this mechanism for high bandwidth-delay product networks. Why is window scaling particularly important for modern high-speed networks? [10 marks]
+
+
+### NAT and Unusual Transports
+
+1. NAT creates several problems for modern network applications. Identify four specific challenges caused by NAT and explain potential solutions or workarounds for each. Why is NAT considered only a temporary solution to IPv4 address exhaustion rather than a long-term fix? [10 marks]
+
+
+### HTTP
+
+1. HTTP provides various mechanisms for optimizing performance and reducing server load. Explain how features like connection persistence (Keep-Alive), content negotiation, and caching work in HTTP. How do ETags and Last-Modified headers specifically help reduce unnecessary data transfers? [10 marks]
+2. Compare HTTP to FTP in terms of their connection models and operation. Why has HTTP largely replaced FTP for many file transfer operations? Analyze how each protocol handles challenges like firewalls, NAT traversal, and file size determination. [10 marks]
+### DNS 
+
+1. Explain in detail the complete resolution process when a user in your Tokyo office attempts to access "[www.internal-app.company.com](http://www.internal-app.company.com/)" for the first time. Your answer should include all steps from the client's request to the final IP address being returned, identifying each type of DNS server involved and the specific queries exchanged. [8 marks]
+
+2. Compare and contrast the roles and operations of recursive DNS servers and authoritative DNS servers. How do these server types interact during the resolution process? Why might an organization choose to operate its own recursive servers rather than rely on ISP-provided ones? [8 marks]
+3. DNS is vulnerable to various forms of attack and failure. Identify three specific vulnerabilities in the DNS system and explain potential mitigation strategies for each. How might a large organization design its DNS infrastructure to maximize resilience against these threats? [8 marks]
+
 
 ## Old Questions
 ---

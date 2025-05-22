@@ -161,7 +161,6 @@ An output yt can be produced at each step by applying a second weight matrix:
 Training an RNN requires learning all weight matrices by minimizing a sequence-level loss (e.g., cross-entropy summed over all time steps). Since the hidden state depends recursively on earlier states, we “unroll” the RNN across time: each time step becomes a layer in a deep feed-forward network that shares weights across layers. We then apply standard backpropagation over this unrolled network, computing gradients of the loss with respect to each weight at every time step and summing them. This procedure is called Backpropagation Through Time (BPTT) .
 
 
-
 As Gradient flows backwards across many time steps they can:
 
 - Vanishing Gradients: Gradients that are too small
@@ -170,12 +169,9 @@ As Gradient flows backwards across many time steps they can:
 Makes it difficult to learn long-range dependencies. LSTM mitigates this.
 
 
-
-
 ### Long Short Term Memory (LSTM)
 
 For the issue of long term memory and needing to weigh information from much earlier e.g. "I grew up in France ..... I speak fluent x" and figuring out what x is.
-
 
 ##### How LSTM Works
 
@@ -192,7 +188,7 @@ Four gates—each implemented as a sigmoid layer followed by element-wise multip
 4. **Output gate**: Decides what information is sent to the next time stamp
 
 
-LSTMs can preserve or discard information over arbitrarily long sequences, making them highly effective for tasks requiring long-term context such as language modelling and speech recognition.
+LSTMs can preserve or discard information over arbitrarily long sequences, making them highly effective for tasks requiring long-term context such as **language modelling** and **speech recognition**.
 
 
 ##### Glossary

@@ -1,29 +1,35 @@
-SMART
-Specific - What I'll be doing or need to do. Clear, short, unambiguous
-Measurable - Clear numerical tasks 
-Attainable - Reasonable for it to be done
-Relevant - Relevant to the final goal
-Time Restricted - Limit it to a final time
-
 
 Sleep **22:00**
 Wake **6:30** Arrive at **8:30** Must Leave by **7:30**
 
-SAT & WED OFF
-
-Limit to 10 Rules
-
-- Make a list of tasks for today and a given week on a day to basis
-- On the day, break it down it to tasks per time. Have a timer for each time.
-- Give a specific requirements for the given week/ day and what you want from it.
-- Only relevant tasks that justify helping the end goal
-- Measurable tasks, so say how long it should take.
-- Make notes in obsidian so it's always available
-
+**SAT & WED OFF**
 ## Not Allowed:
 
-- Youtube
+- YouTube (especially Needle drop)
 - Reddit
+- Tiktok
+- Rym
+- Slay the Spire
+
+## What I want:
+
+- Write more in terms of story, and complete a story from front to end
+- Draw more to be able to draw a cast of characters in a scenario to tell a story
+- Program, learning basics of networking, graphics as well as algorithms.
+- Journaling of thoughts and Ideas
+
+Limit to 10 Rules:
+
+- Make a list of tasks for today and a given week on a day to basis
+- Make notes in obsidian so it's always available
+- When having a break:
+	1. Make it timed
+	2. Have a clear plan for what you're doing in the break (even in the case of entertainment)
+- Always have a list of things to do and update it constantly.
+- 
+
+
+
 
 ### **Art Requirements:**
 

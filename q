@@ -1,0 +1,322 @@
+[1mdiff --git a/.obsidian/workspace.json b/.obsidian/workspace.json[m
+[1mdeleted file mode 100644[m
+[1mindex 9a345d4..0000000[m
+[1m--- a/.obsidian/workspace.json[m
+[1m+++ /dev/null[m
+[36m@@ -1,315 +0,0 @@[m
+[31m-{[m
+[31m-  "main": {[m
+[31m-    "id": "e05611cc63e9c0ee",[m
+[31m-    "type": "split",[m
+[31m-    "children": [[m
+[31m-      {[m
+[31m-        "id": "182b2c95a2c2b64e",[m
+[31m-        "type": "tabs",[m
+[31m-        "children": [[m
+[31m-          {[m
+[31m-            "id": "fddd9c389175e725",[m
+[31m-            "type": "leaf",[m
+[31m-            "state": {[m
+[31m-              "type": "markdown",[m
+[31m-              "state": {[m
+[31m-                "file": "6 - Main/Advanced Networking Specification.md",[m
+[31m-                "mode": "source",[m
+[31m-                "source": false,[m
+[31m-                "backlinks": true,[m
+[31m-                "backlinkOpts": {[m
+[31m-                  "collapseAll": false,[m
+[31m-                  "extraContext": false,[m
+[31m-                  "sortOrder": "alphabetical",[m
+[31m-                  "showSearch": false,[m
+[31m-                  "searchQuery": "",[m
+[31m-                  "backlinkCollapsed": false,[m
+[31m-                  "unlinkedCollapsed": true[m
+[31m-                }[m
+[31m-              },[m
+[31m-              "icon": "lucide-file",[m
+[31m-              "title": "Advanced Networking Specification"[m
+[31m-            }[m
+[31m-          },[m
+[31m-          {[m
+[31m-            "id": "eb7c5f4c099dfd31",[m
+[31m-            "type": "leaf",[m
+[31m-            "state": {[m
+[31m-              "type": "markdown",[m
+[31m-              "state": {[m
+[31m-                "file": "6 - Main/Advanced Networking What's Left.md",[m
+[31m-                "mode": "source",[m
+[31m-                "source": false,[m
+[31m-                "backlinks": true,[m
+[31m-                "backlinkOpts": {[m
+[31m-                  "collapseAll": false,[m
+[31m-                  "extraContext": false,[m
+[31m-                  "sortOrder": "alphabetical",[m
+[31m-                  "showSearch": false,[m
+[31m-                  "searchQuery": "",[m
+[31m-                  "backlinkCollapsed": false,[m
+[31m-                  "unlinkedCollapsed": true[m
+[31m-                }[m
+[31m-              },[m
+[31m-              "icon": "lucide-file",[m
+[31m-              "title": "Advanced Networking What's Left"[m
+[31m-            }[m
+[31m-          }[m
+[31m-        ][m
+[31m-      },[m
+[31m-      {[m
+[31m-        "id": "f4f9549d735a5572",[m
+[31m-        "type": "tabs",[m
+[31m-        "children": [[m
+[31m-          {[m
+[31m-            "id": "2c3d74fda45b127b",[m
+[31m-            "type": "leaf",[m
+[31m-            "state": {[m
+[31m-              "type": "empty",[m
+[31m-              "state": {},[m
+[31m-              "icon": "lucide-file",[m
+[31m-              "title": "New tab"[m
+[31m-            }[m
+[31m-          }[m
+[31m-        ][m
+[31m-      }[m
+[31m-    ],[m
+[31m-    "direction": "vertical"[m
+[31m-  },[m
+[31m-  "left": {[m
+[31m-    "id": "6895edfd90539875",[m
+[31m-    "type": "split",[m
+[31m-    "children": [[m
+[31m-      {[m
+[31m-        "id": "0f7a8992b96c605b",[m
+[31m-        "type": "tabs",[m
+[31m-        "children": [[m
+[31m-          {[m
+[31m-            "id": "1bb00b0a1f46d024",[m
+[31m-            "type": "leaf",[m
+[31m-            "state": {[m
+[31m-              "type": "file-explorer",[m
+[31m-              "state": {[m
+[31m-                "sortOrder": "byModifiedTime",[m
+[31m-                "autoReveal": false[m
+[31m-              },[m
+[31m-              "icon": "lucide-folder-closed",[m
+[31m-              "title": "Files"[m
+[31m-            }[m
+[31m-          },[m
+[31m-          {[m
+[31m-            "id": "b4f3d856a2bcd3a8",[m
+[31m-            "type": "leaf",[m
+[31m-            "state": {[m
+[31m-              "type": "search",[m
+[31m-              "state": {[m
+[31m-                "query": "nat ",[m
+[31m-                "matchingCase": false,[m
+[31m-                "explainSearch": false,[m
+[31m-                "collapseAll": false,[m
+[31m-                "extraContext": false,[m
+[31m-                "sortOrder": "alphabetical"[m
+[31m-              },[m
+[31m-              "icon": "lucide-search",[m
+[31m-              "title": "Search"[m
+[31m-            }[m
+[31m-          },[m
+[31m-          {[m
+[31m-            "id": "04f402e7447df8fc",[m
+[31m-            "type": "leaf",[m
+[31m-            "state": {[m
+[31m-              "type": "bookmarks",[m
+[31m-              "state": {},[m
+[31m-              "icon": "lucide-bookmark",[m
+[31m-              "title": "Bookmarks"[m
+[31m-            }[m
+[31m-          }[m
+[31m-        ],[m
+[31m-        "currentTab": 1[m
+[31m-      }[m
+[31m-    ],[m
+[31m-    "direction": "horizontal",[m
+[31m-    "width": 200[m
+[31m-  },[m
+[31m-  "right": {[m
+[31m-    "id": "69554f0c2b71ccb3",[m
+[31m-    "type": "split",[m
+[31m-    "children": [[m
+[31m-      {[m
+[31m-        "id": "e2dfbaf8fcb0cbc1",[m
+[31m-        "type": "tabs",[m
+[31m-        "children": [[m
+[31m-          {[m
+[31m-            "id": "e6da924d524a4dfc",[m
+[31m-            "type": "leaf",[m
+[31m-            "state": {[m
+[31m-              "type": "planner-timeline",[m
+[31m-              "state": {},[m
+[31m-              "icon": "calendar-with-checkmark",[m
+[31m-              "title": "Timeline"[m
+[31m-            }[m
+[31m-          },[m
+[31m-          {[m
+[31m-            "id": "e07c7ab1407a8535",[m
+[31m-            "type": "leaf",[m
+[31m-            "state": {[m
+[31m-              "type": "backlink",[m
+[31m-              "state": {[m
+[31m-                "file": "6 - Main/Project Report Write Up About.md",[m
+[31m-                "collapseAll": false,[m
+[31m-                "extraContext": false,[m
+[31m-                "sortOrder": "alphabetical",[m
+[31m-                "showSearch": false,[m
+[31m-                "searchQuery": "",[m
+[31m-                "backlinkCollapsed": false,[m
+[31m-                "unlinkedCollapsed": true[m
+[31m-              },[m
+[31m-              "icon": "links-coming-in",[m
+[31m-              "title": "Backlinks for Project Report Write Up About"[m
+[31m-            }[m
+[31m-          },[m
+[31m-          {[m
+[31m-            "id": "98c7f79a55a2d5ec",[m
+[31m-            "type": "leaf",[m
+[31m-            "state": {[m
+[31m-              "type": "outgoing-link",[m
+[31m-              "state": {[m
+[31m-                "file": "6 - Main/Project Report Write Up About.md",[m
+[31m-                "linksCollapsed": false,[m
+[31m-                "unlinkedCollapsed": true[m
+[31m-              },[m
+[31m-              "icon": "links-going-out",[m
+[31m-              "title": "Outgoing links from Project Report Write Up About"[m
+[31m-            }[m
+[31m-          },[m
+[31m-          {[m
+[31m-            "id": "d5a43cd611a4d0a9",[m
+[31m-            "type": "leaf",[m
+[31m-            "state": {[m
+[31m-              "type": "tag",[m
+[31m-              "state": {[m
+[31m-                "sortOrder": "frequency",[m
+[31m-                "useHierarchy": true,[m
+[31m-                "showSearch": false,[m
+[31m-                "searchQuery": ""[m
+[31m-              },[m
+[31m-              "icon": "lucide-tags",[m
+[31m-              "title": "Tags"[m
+[31m-            }[m
+[31m-          },[m
+[31m-          {[m
+[31m-            "id": "def8fde3b642450d",[m
+[31m-            "type": "leaf",[m
+[31m-            "state": {[m
+[31m-              "type": "outline",[m
+[31m-              "state": {[m
+[31m-                "file": "6 - Main/Project Report Write Up About.md",[m
+[31m-                "followCursor": false,[m
+[31m-                "showSearch": false,[m
+[31m-                "searchQuery": ""[m
+[31m-              },[m
+[31m-              "icon": "lucide-list",[m
+[31m-              "title": "Outline of Project Report Write Up About"[m
+[31m-            }[m
+[31m-          },[m
+[31m-          {[m
+[31m-            "id": "e85e4f17bda939a9",[m
+[31m-            "type": "leaf",[m
+[31m-            "state": {[m
+[31m-              "type": "planner-timeline",[m
+[31m-              "state": {},[m
+[31m-              "icon": "lucide-file",[m
+[31m-              "title": "Plugin no longer active"[m
+[31m-            }[m
+[31m-          },[m
+[31m-          {[m
+[31m-            "id": "8f102d999250719f",[m
+[31m-            "type": "leaf",[m
+[31m-            "state": {[m
+[31m-              "type": "planner-timeline",[m
+[31m-              "state": {},[m
+[31m-              "icon": "calendar-with-checkmark",[m
+[31m-              "title": "Timeline"[m
+[31m-            }[m
+[31m-          }[m
+[31m-        ][m
+[31m-      }[m
+[31m-    ],[m
+[31m-    "direction": "horizontal",[m
+[31m-    "width": 416.5,[m
+[31m-    "collapsed": true[m
+[31m-  },[m
+[31m-  "left-ribbon": {[m
+[31m-    "hiddenItems": {[m
+[31m-      "switcher:Open quick switcher": false,[m
+[31m-      "graph:Open graph view": false,[m
+[31m-      "canvas:Create new canvas": false,[m
+[31m-      "daily-notes:Open today's daily note": false,[m
+[31m-      "templates:Insert template": false,[m
+[31m-      "command-palette:Open command palette": false,[m
+[31m-      "obsidian-kanban:Create new board": false,[m
+[31m-      "obsidian-excalidraw-plugin:New drawing": false,[m
+[31m-      "obsidian-day-planner:Open Timeline": false,[m
+[31m-      "obsidian-day-planner:Open Multi-Day View": false,[m
+[31m-      "obsidian-git:Open Git source control": false[m
+[31m-    }[m
+[31m-  },[m
+[31m-  "active": "fddd9c389175e725",[m
+[31m-  "lastOpenFiles": [[m
+[31m-    "README.md",[m
+[31m-    "6 - Main/08 DNS.md",[m
+[31m-    "6 - Main/Advanced Networking Specification.md",[m
+[31m-    "attachments/08 DNS.pdf",[m
+[31m-    "6 - Main/06 TCP and UDP.md",[m
+[31m-    "6 - Main/Advanced Networking What's Left.md",[m
+[31m-    "6 - Main/05 Address Allocation.md",[m
+[31m-    "attachments/05 Address Allocation.pdf",[m
+[31m-    "2 - Src Materials/RFC's & Standards/UDP RFC 768.md",[m
+[31m-    "attachments/06 TCP and UDP.pdf",[m
+[31m-    "6 - Main/04 IP.md",[m
+[31m-    "attachments/04 IP.pdf",[m
+[31m-    "6 - Main/09 Networks Interfaces, Plural.md",[m
+[31m-    "attachments/Net-Lecture12-Multiple-IP 1.pdf",[m
+[31m-    "attachments/Net-Lecture12-Multiple-IP.pdf",[m
+[31m-    "6 - Main/2025-05-14.md",[m
+[31m-    "6 - Main/DNS.md",[m
+[31m-    "6 - Main/02 Low Level Pt1.md",[m
+[31m-    "attachments/02 Lower Layers - Part One.pdf",[m
+[31m-    "6 - Main/03 Low Level Pt2.md",[m
+[31m-    "attachments/03 Lower Layers - Part Two.pdf",[m
+[31m-    "6 - Main/Untitled 6.md",[m
+[31m-    "6 - Main/07 HTTP.md",[m
+[31m-    "6 - Main/10 Networking Other Transports, NAT.md",[m
+[31m-    "attachments/08 Networking Other Transports, NAT.pdf",[m
+[31m-    "6 - Main/This Week.md",[m
+[31m-    "6 - Main/Advanced Networking All Questions.md",[m
+[31m-    "attachments/LHM Advanced Networking 2023-24.pdf",[m
+[31m-    "6 - Main/What currently works.md",[m
+[31m-    "6 - Main/To Do.md",[m
+[31m-    "1 - Rough Notes/Tomorrow.md",[m
+[31m-    "6 - Main/2025-05-13.md",[m
+[31m-    "6 - Main/Advanced Networking Exam 2023-24.md",[m
+[31m-    "6 - Main/Advanced Networking Exam 2022-23.md",[m
+[31m-    "6 - Main/04 Supervised Learning Algorithms- Intelligence Interactive Systems.md",[m
+[31m-    "6 - Main/05 Unsupervised Learning Intelligent Interactive Systems.md",[m
+[31m-    "attachments/image-22.png",[m
+[31m-    "attachments/image-21.png",[m
+[31m-    "attachments/image-20.png",[m
+[31m-    "attachments/image-19.png",[m
+[31m-    "attachments/image-18.png",[m
+[31m-    "attachments/image-17.png",[m
+[31m-    "attachments/image-16.png",[m
+[31m-    "attachments/image-15.png",[m
+[31m-    "attachments/image-14.png",[m
+[31m-    "attachments/image-13.png",[m
+[31m-    "BCNR Show.canvas",[m
+[31m-    "Untitled 1.canvas",[m
+[31m-    "Factory Plan.canvas",[m
+[31m-    "Final Year Project/Sumemr Ville.canvas",[m
+[31m-    "Final Year Project/Requirements.canvas",[m
+[31m-    "Human-Computer-Interaction/Ideas.canvas",[m
+[31m-    "Final Year Project/Untitled.canvas",[m
+[31m-    "Final Year Project/2d Map.canvas",[m
+[31m-    "Intelligent Data Analysis/Intelligent Data Analysis.canvas"[m
+[31m-  ][m
+[31m-}[m
+\ No newline at end of file[m

@@ -8,12 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fddd9c389175e725",
+            "id": "27bc3090dd127df3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main/Advanced Networking Specification.md",
+                "file": "6 - Main/This Week.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -27,17 +28,18 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Advanced Networking Specification"
+              "title": "This Week"
             }
           },
           {
-            "id": "eb7c5f4c099dfd31",
+            "id": "d332eaf37c534bcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Main/Advanced Networking What's Left.md",
+                "file": "6 - Main/04 Supervised Learning Algorithms- Intelligence Interactive Systems.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,23 +54,170 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Advanced Networking What's Left"
+              "title": "04 Supervised Learning Algorithms- Intelligence Interactive Systems"
+            }
+          },
+          {
+            "id": "8b929606b38c3ae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main/06 Recommendation System Intelligent Interactive Systems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "06 Recommendation System Intelligent Interactive Systems"
+            }
+          },
+          {
+            "id": "7f50bce6935fd81a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main/Intelligence Interactive Systems All Questions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Intelligence Interactive Systems All Questions"
+            }
+          },
+          {
+            "id": "bb9b22ca78275ee0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main/09 Reinforcement Learning Intelligent Interactive Systems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "09 Reinforcement Learning Intelligent Interactive Systems"
+            }
+          },
+          {
+            "id": "4a8b56a51f525b9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main/08 Bayesian Reasoning and Markov Decision Processes Intelligent Interactive Systems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "08 Bayesian Reasoning and Markov Decision Processes Intelligent Interactive Systems"
+            }
+          },
+          {
+            "id": "b766affd6e6cc535",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main/latex.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "latex"
+            }
+          },
+          {
+            "id": "3b73246482e811fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main/2025-05-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-22"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
-        "id": "f4f9549d735a5572",
+        "id": "a88fe60696d5e609",
         "type": "tabs",
         "children": [
           {
-            "id": "2c3d74fda45b127b",
+            "id": "59c457684231214b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "attachments/Reinforcement-Learning.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Reinforcement-Learning"
             }
           }
         ]
@@ -145,8 +294,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -228,11 +377,42 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "18a4a7fa7ab23670",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5bcf76dc4e59a4ec",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e72f8a6b7d3d4547",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -254,54 +434,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fddd9c389175e725",
+  "active": "bb9b22ca78275ee0",
   "lastOpenFiles": [
-    "README.md",
-    "6 - Main/08 DNS.md",
-    "6 - Main/Advanced Networking Specification.md",
-    "attachments/08 DNS.pdf",
-    "6 - Main/06 TCP and UDP.md",
-    "6 - Main/Advanced Networking What's Left.md",
-    "6 - Main/05 Address Allocation.md",
-    "attachments/05 Address Allocation.pdf",
-    "2 - Src Materials/RFC's & Standards/UDP RFC 768.md",
-    "attachments/06 TCP and UDP.pdf",
-    "6 - Main/04 IP.md",
-    "attachments/04 IP.pdf",
-    "6 - Main/09 Networks Interfaces, Plural.md",
-    "attachments/Net-Lecture12-Multiple-IP 1.pdf",
-    "attachments/Net-Lecture12-Multiple-IP.pdf",
-    "6 - Main/2025-05-14.md",
-    "6 - Main/DNS.md",
-    "6 - Main/02 Low Level Pt1.md",
-    "attachments/02 Lower Layers - Part One.pdf",
-    "6 - Main/03 Low Level Pt2.md",
-    "attachments/03 Lower Layers - Part Two.pdf",
-    "6 - Main/Untitled 6.md",
-    "6 - Main/07 HTTP.md",
-    "6 - Main/10 Networking Other Transports, NAT.md",
-    "attachments/08 Networking Other Transports, NAT.pdf",
-    "6 - Main/This Week.md",
-    "6 - Main/Advanced Networking All Questions.md",
+    "attachments/Reinforcement-Learning.pdf",
+    "6 - Main/09 Reinforcement Learning Intelligent Interactive Systems.md",
+    "attachments/image-28.png",
+    "6 - Main/2025-05-22.md",
+    "6 - Main/06 Recommendation System Intelligent Interactive Systems.md",
+    "6 - Main/2025-05-21.md",
+    "6 - Main/08 Bayesian Reasoning and Markov Decision Processes Intelligent Interactive Systems.md",
+    "6 - Main/latex.md",
+    "attachments/undergradmath.pdf",
+    "6 - Main/golang context.md",
+    "6 - Main/Intelligence Interactive Systems All Questions.md",
+    "attachments/LHM Intelligent Interactive Systems 2022-23.pdf",
+    "attachments/LHM Intelligent Interactive Systems  2023-24.pdf",
+    "6 - Main/Intelligent Interactive Systems Literature Review Paper Summer 2024.md",
     "attachments/LHM Advanced Networking 2023-24.pdf",
-    "6 - Main/What currently works.md",
-    "6 - Main/To Do.md",
-    "1 - Rough Notes/Tomorrow.md",
-    "6 - Main/2025-05-13.md",
-    "6 - Main/Advanced Networking Exam 2023-24.md",
-    "6 - Main/Advanced Networking Exam 2022-23.md",
-    "6 - Main/04 Supervised Learning Algorithms- Intelligence Interactive Systems.md",
+    "attachments/Essay Question.pdf",
+    "attachments/LHM Intelligent Interactive Systems Summer.pdf",
+    "attachments/LHM Advanced Networking 2022-23.pdf",
+    "6 - Main/Intelligent Interactive Systems Literature Review Paper 2022-23.md",
+    "6 - Main/Intelligent Interactive Systems Literature Review Paper 2023-24.md",
+    "attachments/image-27.png",
+    "attachments/Recommender_Systems.pdf",
+    "attachments/image-26.png",
+    "attachments/MDP Applications.pdf",
+    "attachments/image-25.png",
+    "6 - Main/07 Responsible AI and LLM's Intelligent Interactive Systems.md",
+    "6 - Main/Intelligence Interactive Systems Specification.md",
+    "6 - Main/2025-05-20.md",
     "6 - Main/05 Unsupervised Learning Intelligent Interactive Systems.md",
+    "6 - Main/04 Supervised Learning Algorithms- Intelligence Interactive Systems.md",
+    "6 - Main/What currently works.md",
+    "6 - Main/This Week.md",
+    "6 - Main/2025-05-19.md",
+    "6 - Main/Intelligence Interactive Systems Essay Question.md",
+    "6 - Main/Intelligent Interactive Systems Literature Review 2 Overview.md",
+    "6 - Main/10 Ethics Intelligent Interactive Systems.md",
+    "5 - Templates/Normal Note.md",
+    "6 - Main/08 DNS.md",
+    "6 - Main/DNS.md",
+    "attachments/image-24.png",
+    "attachments/image-23.png",
     "attachments/image-22.png",
     "attachments/image-21.png",
     "attachments/image-20.png",
     "attachments/image-19.png",
-    "attachments/image-18.png",
-    "attachments/image-17.png",
-    "attachments/image-16.png",
-    "attachments/image-15.png",
-    "attachments/image-14.png",
-    "attachments/image-13.png",
     "BCNR Show.canvas",
     "Untitled 1.canvas",
     "Factory Plan.canvas",

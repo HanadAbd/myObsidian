@@ -6,6 +6,8 @@ Tags: [[Advanced Networking]]
 
 ---
 
+
+
 ## Introduction
 TCP (Transport Control Protocol) and UDP (User Datagram Protocols) are both transport protocols that are both used in Internet Stack alongside the Internet Protocol to send data across applications. UDP is unreliable and unordered but extremely fast, used in older systems that couldn't afford the overhead of TCP. And TCP is reliable and ordered, and is the standard for sending streams data through a secure connection.
 
